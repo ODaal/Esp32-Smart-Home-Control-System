@@ -84,9 +84,7 @@ Designed quickly to validate end-to-end functionality
 
 ESP32 (C / Arduino framework)
 
-Python (voice recognition script)
-
-GPIO, timers, state-based logic
+Python
 
 Wireless communication (Wi-Fi)
 
